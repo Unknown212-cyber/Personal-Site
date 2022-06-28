@@ -89,6 +89,11 @@ p {
   margin-left: 30px;
 }
 
+.linux-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
 
 .email-img {
   width: 300px;
