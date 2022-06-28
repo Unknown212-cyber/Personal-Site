@@ -95,6 +95,12 @@ p {
   margin-right: 30px;
 }
 
+.apis-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
 .email-img {
   width: 300px;
   height: 300px;
